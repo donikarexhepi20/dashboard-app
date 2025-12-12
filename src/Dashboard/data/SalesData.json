@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "date": "2025-12-01",
+    "product": "Laptop Pro 15",
+    "category": "Electronics",
+    "quantity": 5,
+    "unitPrice": 1200,
+    "total": 6000,
+    "region": "North America"
+  },
+  {
+    "id": 2,
+    "date": "2025-12-01",
+    "product": "Wireless Headphones",
+    "category": "Electronics",
+    "quantity": 10,
+    "unitPrice": 150,
+    "total": 1500,
+    "region": "Europe"
+  },
+  {
+    "id": 3,
+    "date": "2025-12-02",
+    "product": "Smartphone X",
+    "category": "Electronics",
+    "quantity": 7,
+    "unitPrice": 900,
+    "total": 6300,
+    "region": "Asia"
+  },
+  {
+    "id": 4,
+    "date": "2025-12-02",
+    "product": "Office Chair",
+    "category": "Furniture",
+    "quantity": 3,
+    "unitPrice": 200,
+    "total": 600,
+    "region": "North America"
+  },
+  {
+    "id": 5,
+    "date": "2025-12-03",
+    "product": "Desk Lamp",
+    "category": "Furniture",
+    "quantity": 15,
+    "unitPrice": 40,
+    "total": 600,
+    "region": "Europe"
+  },
+  {
+    "id": 6,
+    "date": "2025-12-03",
+    "product": "Gaming Console",
+    "category": "Electronics",
+    "quantity": 4,
+    "unitPrice": 500,
+    "total": 2000,
+    "region": "North America"
+  },
+  {
+    "id": 7,
+    "date": "2025-12-04",
+    "product": "Electric Kettle",
+    "category": "Appliances",
+    "quantity": 8,
+    "unitPrice": 60,
+    "total": 480,
+    "region": "Europe"
+  },
+  {
+    "id": 8,
+    "date": "2025-12-04",
+    "product": "Smartwatch",
+    "category": "Electronics",
+    "quantity": 12,
+    "unitPrice": 250,
+    "total": 3000,
+    "region": "Asia"
+  },
+  {
+    "id": 9,
+    "date": "2025-12-05",
+    "product": "Tablet S10",
+    "category": "Electronics",
+    "quantity": 6,
+    "unitPrice": 600,
+    "total": 3600,
+    "region": "North America"
+  },
+  {
+    "id": 10,
+    "date": "2025-12-05",
+    "product": "Bluetooth Speaker",
+    "category": "Electronics",
+    "quantity": 20,
+    "unitPrice": 100,
+    "total": 2000,
+    "region": "Europe"
+  }
+]
